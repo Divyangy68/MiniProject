@@ -1,7 +1,10 @@
+/*include header files*/
 #include<header.h>
 
-void help()
+/*Derive definition of help function from header.h*/
+int help()
 {
+    /*Give details of game about how to play and what is the rules and regulaiton*/
     printf("\n\n                              HELP");
     printf("\n -------------------------------------------------------------------------\n");
     printf("\n ......................... C program Quiz Game ...........................\n");
@@ -18,4 +21,5 @@ void help()
     printf("\n 6. No negative marking for wrong answers");
 
 	printf("\n\n**************************** BEST OF LUCK *********************************");
+    return 0;
 }
