@@ -1,4 +1,4 @@
-# SDLC Activity Based Learning - Quiz Application
+# Quiz Application
 ![Quiz](6_Images_And_Videos/Logo.png)
 
 Build | Code Quality | Code Coverage | Code Quality | [Git Inspector](using github.io option)
