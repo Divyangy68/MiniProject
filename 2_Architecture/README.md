@@ -2,15 +2,15 @@
 # Behavior Diagrams
 
 - Activity Diagram
-![Activity Diagram](Behavioral\ Diagrams/ActivityDiagram.png)
+![Activity Diagram](BehavioralDiagrams/ActivityDiagram.png)
 
 - Use Case Diagram
-![Use Case Diagram](Behavioral\ Diagrams/UseCaseDiagram.png)
+![Use Case Diagram](BehavioralDiagrams/UseCaseDiagram.png)
 
 # Structure Diagram
 
 - Class Diagram
-![Class Diagram](Structure\ Diagrams/ClassDiagram.png)
+![Class Diagram](StructureDiagrams/ClassDiagram.png)
 
 - Component Diagram
-![Component Diagram](Structure\ Diagrams/ComponentDiagram.png)
+![Component Diagram](StructureDiagrams/ComponentDiagram.png)
