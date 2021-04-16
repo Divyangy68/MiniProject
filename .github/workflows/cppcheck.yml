@@ -1,4 +1,4 @@
-name: cppcheck-action
+name: Code Quality - Static Code - Cppcheck
 on: [push]
 
 jobs:
