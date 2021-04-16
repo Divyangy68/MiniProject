@@ -13,7 +13,7 @@ Folder             | Description
 `3_Implementation` | All code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`      | Documents with Documentation for Reviewer
-`6_Images_And_Videos      | Documents with all the images and diagrams
+`6_Images_And_Videos`      | Documents with all the images and diagrams
 `7_Others`      | Documents with other documents if needed
 
 
