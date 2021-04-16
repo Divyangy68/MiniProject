@@ -1,7 +1,7 @@
 # Behavior Diagrams
 
 - Activity Diagram
-![Activity Diagram](Behavioral Diagrams/ActivityDiagram.png)
+![Activity Diagram](ActivityDiagram.png)
 
 - Use Case Diagram
-![Use Case Diagram](Behavioral Diagrams/UseCaseDiagram.png)
+![Use Case Diagram](UseCaseDiagram.png)
